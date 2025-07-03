@@ -1,0 +1,6 @@
+translate
+*.o
+*.txt
+.vscode
+*.out
+cases/
